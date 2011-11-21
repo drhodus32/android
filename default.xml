@@ -30,6 +30,7 @@
   <project path="device/samsung/maguro" name="CyanogenMod/android_device_samsung_maguro" />
   <project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
+  <project path="device/htc/mecha" name="dhacker29/android_device_htc_mecha" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
@@ -235,6 +236,7 @@
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
+  <project path="vendor/htc" name="dhacker29/proprietary_vendor_htc"
 
-  <project path="android" name="CyanogenMod/android" />
+  <project path="android" name="dhacker29/android" />
 </manifest>
